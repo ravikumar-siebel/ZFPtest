@@ -1,0 +1,2 @@
+# ZFPtest
+automation zfp
